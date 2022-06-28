@@ -1,0 +1,7 @@
+Пользователи системы: ['user', '_windowserver', '_gamecontrollerd', 'root', '_datadetectors', '_fpsd', '_installcoordinationd', '_spotlight', '_nsurlsessiond', '_assetcache', '_appleevents', '_reportmemoryexception', '_netbios', '_captiveagent', '_softwareupdate', '_applepay', '_cmiodalassistants', '_ctkd', '_securityagent', '_atsserver', '_locationd', '_hidd', '_coreaudiod', '_networkd', '_mdnsresponder', '_analyticsd', '_distnote', '_displaypolicyd', '_usbmuxd', '_timed', '_iconservices']
+Процессов запущено: 393
+Пользовательских процессов: {'user': 203, '_windowserver': 2, '_gamecontrollerd': 1, 'root': 138, '_datadetectors': 1, '_fpsd': 3, '_installcoordinationd': 1, '_spotlight': 4, '_nsurlsessiond': 3, '_assetcache': 3, '_appleevents': 2, '_reportmemoryexception': 1, '_netbios': 1, '_captiveagent': 1, '_softwareupdate': 3, '_applepay': 1, '_cmiodalassistants': 2, '_ctkd': 1, '_securityagent': 1, '_atsserver': 1, '_locationd': 7, '_hidd': 1, '_coreaudiod': 4, '_networkd': 1, '_mdnsresponder': 1, '_analyticsd': 1, '_distnote': 1, '_displaypolicyd': 1, '_usbmuxd': 1, '_timed': 1, '_iconservices': 1}
+Всего памяти используется: 39.5
+Всего CPU используется: 39.2
+Больше всего памяти использует: /Applications/PyCharm C
+Больше всего CPU использует: /System/Library/Private
